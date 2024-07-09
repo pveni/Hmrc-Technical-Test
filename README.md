@@ -6,7 +6,7 @@ This project contains an automated test framework using Cucumber, Java, Spring, 
 
 ## Prerequisites
 
-- Java 11+
+- Java 17+
 - Maven
 - ChromeDriver (place the executable path in `WebDriverManager.java`)
 
